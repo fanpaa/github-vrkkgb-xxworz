@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./NewYork.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
+  font-family: 'MyFont';
   color: red;
 }
